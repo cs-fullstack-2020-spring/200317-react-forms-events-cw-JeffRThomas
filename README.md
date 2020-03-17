@@ -1,4 +1,6 @@
 # 20-03-17 React Forms Events CW
+### Really good use of testing. Be sure to review map syntax...we will continue to use map in react (like all the time)
+### Score : 2/5
 - Create a new react app called dog-adoption-site
 - Create a class based component called `AppContainer` and render it on the page
 - Create a component called `AvailableDogs` that renders on the left side of the screen and displays a list of dogs that have been put up for adoption

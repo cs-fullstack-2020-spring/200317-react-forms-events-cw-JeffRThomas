@@ -8,6 +8,7 @@ class AvailableDogs extends Component {
     };
 
     render() {
+        // you're passing in `dogArray` as your array of dogs, not `DogsForAdoption`
         return (
             <div>
                 {
